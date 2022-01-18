@@ -1,2 +1,3 @@
 one file added
 second row added
+third row added
